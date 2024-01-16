@@ -23,7 +23,7 @@ Python 3.7.6, Panda Library, MatplotLib,Jupyter Notebook, APIs and JSON Traversa
 - citipy library
 - OpenWeatherMap APIs and Google Maps APIs 
 - Parse Api responses
-- datetime linrary
+- datetime library
 - use of JSON standard format
 - usage of try except block
 - use of googlemaps
