@@ -1,6 +1,6 @@
 # World Weather Analysis
 
-In this challenge we are using weather description data to enhance the PlanMyTrip app where we get the user weather preferences and plan their itinerary based of the nearby hotels of the respective cities .
+In this challenge I am using weather description data to enhance the PlanMyTrip app where I get the user weather preferences and plan their itinerary based of the nearby hotels of the respective cities .
 
 Overview of the project
  The focus of the project lies in
@@ -57,7 +57,7 @@ Python 3.7.6, Panda Library, MatplotLib,Jupyter Notebook, APIs and JSON Traversa
 ![img](https://github.com/hsurisetti/World_Weather_Analysis_Challenge/blob/main/Vacation_Itinerary/ItineraryHotels_with_marker_popups.png)
 
 ## Conclusion:
-  With the help of OpenWeatherMaps API and GoogleMaps API,we are able to generate our own travel plans with the choice of able to make weather selections , select the city and country which we like to travel and plan our own travel itinerary. I find this project very interesting, practical and api friendly, where we can see a lot more potential in developing and exploring many more projects like this using the different functionalities of the APIs.
+  With the help of OpenWeatherMaps API and GoogleMaps API,I was able to generate my own travel plan with the choice of weather selections , city and country I prefer to travel and plan my own travel itinerary. I find this project very interesting, practical and api friendly, where I can see a lot more potential in developing and exploring many more projects like this using the different functionalities of the APIs.
 
 
   
